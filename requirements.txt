@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+deep-translator
+langchain-google-genai
+python-dotenv
+pydantic
+streamlit
